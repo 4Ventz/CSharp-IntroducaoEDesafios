@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\bin\Debug\net6.0\Exemplo - SwitchCase.exe
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\bin\Debug\net6.0\Exemplo - SwitchCase.deps.json
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\bin\Debug\net6.0\Exemplo - SwitchCase.runtimeconfig.json
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\bin\Debug\net6.0\Exemplo - SwitchCase.dll
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\bin\Debug\net6.0\Exemplo - SwitchCase.pdb
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\obj\Debug\net6.0\Exemplo - SwitchCase.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\obj\Debug\net6.0\Exemplo - SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\obj\Debug\net6.0\Exemplo - SwitchCase.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\obj\Debug\net6.0\Exemplo - SwitchCase.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\obj\Debug\net6.0\Exemplo - SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\obj\Debug\net6.0\Exemplo - SwitchCase.dll
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\obj\Debug\net6.0\refint\Exemplo - SwitchCase.dll
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\obj\Debug\net6.0\Exemplo - SwitchCase.pdb
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\obj\Debug\net6.0\Exemplo - SwitchCase.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\Exemplo - SwitchCase\obj\Debug\net6.0\ref\Exemplo - SwitchCase.dll

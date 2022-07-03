@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\bin\Debug\net6.0\5-CaracteresETexto.exe
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\bin\Debug\net6.0\5-CaracteresETexto.deps.json
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\bin\Debug\net6.0\5-CaracteresETexto.runtimeconfig.json
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\bin\Debug\net6.0\5-CaracteresETexto.dll
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\bin\Debug\net6.0\5-CaracteresETexto.pdb
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.dll
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\refint\5-CaracteresETexto.dll
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.pdb
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\5-CaracteresETexto.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\5-CaracteresETexto\obj\Debug\net6.0\ref\5-CaracteresETexto.dll

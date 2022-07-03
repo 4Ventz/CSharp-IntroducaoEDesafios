@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\obj\Debug\net6.0\DESAFIO - Fatorial.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\obj\Debug\net6.0\DESAFIO - Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\obj\Debug\net6.0\DESAFIO - Fatorial.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\obj\Debug\net6.0\DESAFIO - Fatorial.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\obj\Debug\net6.0\DESAFIO - Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\bin\Debug\net6.0\DESAFIO - Fatorial.exe
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\bin\Debug\net6.0\DESAFIO - Fatorial.deps.json
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\bin\Debug\net6.0\DESAFIO - Fatorial.runtimeconfig.json
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\bin\Debug\net6.0\DESAFIO - Fatorial.dll
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\bin\Debug\net6.0\DESAFIO - Fatorial.pdb
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\obj\Debug\net6.0\DESAFIO - Fatorial.dll
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\obj\Debug\net6.0\refint\DESAFIO - Fatorial.dll
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\obj\Debug\net6.0\DESAFIO - Fatorial.pdb
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\obj\Debug\net6.0\DESAFIO - Fatorial.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Fatorial\obj\Debug\net6.0\ref\DESAFIO - Fatorial.dll

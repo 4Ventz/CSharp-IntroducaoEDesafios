@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\bin\Debug\net6.0\DESAFIO - Alíquota com ifs.exe
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\bin\Debug\net6.0\DESAFIO - Alíquota com ifs.deps.json
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\bin\Debug\net6.0\DESAFIO - Alíquota com ifs.runtimeconfig.json
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\bin\Debug\net6.0\DESAFIO - Alíquota com ifs.dll
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\bin\Debug\net6.0\DESAFIO - Alíquota com ifs.pdb
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\obj\Debug\net6.0\DESAFIO - Alíquota com ifs.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\obj\Debug\net6.0\DESAFIO - Alíquota com ifs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\obj\Debug\net6.0\DESAFIO - Alíquota com ifs.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\obj\Debug\net6.0\DESAFIO - Alíquota com ifs.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\obj\Debug\net6.0\DESAFIO - Alíquota com ifs.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\obj\Debug\net6.0\DESAFIO - Alíquota com ifs.dll
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\obj\Debug\net6.0\refint\DESAFIO - Alíquota com ifs.dll
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\obj\Debug\net6.0\DESAFIO - Alíquota com ifs.pdb
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\obj\Debug\net6.0\DESAFIO - Alíquota com ifs.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\AprendendoCSharp\DESAFIO - Alíquota com ifs\obj\Debug\net6.0\ref\DESAFIO - Alíquota com ifs.dll
